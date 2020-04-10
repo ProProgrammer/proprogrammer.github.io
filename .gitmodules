@@ -1,3 +1,4 @@
 [submodule "poole"]
 	path = poole
 	url = https://github.com/ProProgrammer/poole.git
+	branch = deep-customized
