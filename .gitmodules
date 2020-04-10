@@ -1,3 +1,3 @@
 [submodule "poole"]
 	path = poole
-	url = git@github.com:ProProgrammer/poole.git
+	url = https://github.com/ProProgrammer/poole.git
