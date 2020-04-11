@@ -1,3 +1,21 @@
-<div id="spotlight" class="animated fadeIn">
-    Deep Sukhwani
+---
+layout: default
+title: Home
+---
+
+<div id="home-center">
+  <h1 id="home-title">{{ site.author.name }}</h1>
+  <div id="home-social">
+    {% if site.data.social %}
+      {% assign sm = site.data.social %}
+      {% for entry in sm %}
+        {% assign key = entry | first %}
+        {% if sm[key].id %}
+        <a href="{{ sm[key].href }}{{ sm[key].id }}" title="{{ sm[key].title }}" target="_blank"><i
+              class="fa {{ sm[key].fa-icon }}"></i></a>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+
+</div>
 </div>
