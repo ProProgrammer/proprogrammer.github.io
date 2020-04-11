@@ -7,10 +7,10 @@ baseurl: ""
 permalink: pretty
 
 # Gems
-plugins:
-  - jekyll-gist
-  - jekyll-paginate
-  - jekyll-seo-tag
+#plugins:
+#  - jekyll-gist
+#  - jekyll-paginate
+#  - jekyll-seo-tag
 
 # Optimize Jekyll
 exclude:
@@ -34,7 +34,7 @@ sass:
 # Specify the author for blog posts
 author:
   name: Deep Sukhwani
-  url: https://deeps.dev
+  url: ""
   email: deepsukhwani@gmail.com
 
 # Custom vars
