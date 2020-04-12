@@ -2,35 +2,35 @@ email:
   id: 'deepsukhwani@gmail.com'
   href: 'mailto:'
   title: 'Email'
-  fa-icon: 'fa-envelope-square'
+  fa-icon: 'fa fa-envelope'
 
 github:
   id: 'proprogrammer'
   href: 'https://github.com/'
   title: 'GitHub'
-  fa-icon: 'fa-github-square'
+  fa-icon: 'fab fa-github'
 
 youtube:
   id: 'appletechenthusiast'
   href: 'https://www.youtube.com/'
   title: 'YouTube'
-  fa-icon: 'fa-youtube'
+  fa-icon: 'fab fa-youtube'
 
 stackoverflow:
   id: '2661238'
   href: 'https://stackoverflow.com/users/'
   title: 'StackOverflow'
-  fa-icon: 'fa-stack-overflow'
+  fa-icon: 'fab fa-stack-overflow'
 
 linkedin:
   id: 'deepsukhwani'
   href: 'https://linkedin.com/in/'
   title: 'LinkedIn'
-  fa-icon: 'fa-linkedin'
+  fa-icon: 'fab fa-linkedin-in'
 
 twitter:
   id: 'deepsukhwani'
   href: 'https://www.twitter.com/'
   title: 'Twitter'
-  fa-icon: 'fa-twitter-square'
+  fa-icon: 'fab fa-twitter-square'
 

@@ -12,7 +12,7 @@ title: Home
         {% assign key = entry | first %}
         {% if sm[key].id %}
         <a href="{{ sm[key].href }}{{ sm[key].id }}" title="{{ sm[key].title }}" target="_blank"><i
-              class="fa {{ sm[key].fa-icon }}"></i></a>
+              class="{{ sm[key].fa-icon }}"></i></a>
         {% endif %}
       {% endfor %}
     {% endif %}
