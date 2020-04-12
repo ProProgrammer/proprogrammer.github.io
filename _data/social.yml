@@ -10,6 +10,12 @@ github:
   title: 'GitHub'
   fa-icon: 'fa-github-square'
 
+youtube:
+  id: 'appletechenthusiast'
+  href: 'https://www.youtube.com/'
+  title: 'YouTube'
+  fa-icon: 'fa-youtube'
+
 stackoverflow:
   id: '2661238'
   href: 'https://stackoverflow.com/users/'
