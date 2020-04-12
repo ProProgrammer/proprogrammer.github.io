@@ -1,0 +1,8 @@
+# Order matters, that's how it will appear on homepage
+
+- name: Blog
+  link: /blog
+
+- name: About
+  link: /about
+
